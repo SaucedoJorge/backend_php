@@ -326,6 +326,12 @@ $participantes = [
         "pais"         => "ARGENTINA"
     ],
     (object)[ 
+        "nombre"       => "Jorge Luis",
+        "apellido"     => "Saucedo",
+        "edad"         => 23,
+        "pais"         => "ARGENTINA"
+    ],
+    (object)[ 
         "nombre"       => "Victor Ariel",
         "apellido"     => "Bustamante",
         "edad"         => 28,
